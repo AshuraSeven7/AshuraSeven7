@@ -21,7 +21,7 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Ashura_♡-Seven" />
+  <img src="https://img.shields.io/badge/Ashura_Seven" />
 </div>
       
 <br>
