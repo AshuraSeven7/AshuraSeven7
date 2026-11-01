@@ -1,8 +1,9 @@
 # 👩🏻‍💻 Ashura Seven 7
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Engenharia da computação na UFES.
+Me chamo Ashura Seven, tenho 18 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio na E.E Antônio Batista da Mota. Sou um fanático pela tecnologia e em destaque pela programação. Atualmente, estou cursando Engenharia da computação na UFES.
+
 <p align="left">
     <a href="https://github.com/AshuraSeven7?tab=repositories&sort=stargazers">
         <img 
