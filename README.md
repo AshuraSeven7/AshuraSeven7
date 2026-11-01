@@ -142,4 +142,4 @@ Me chamo Ashura Seven, tenho 18 anos e sou natural do Rio Grande do Sul. Conclu�
 <br/>
 
 ### 📊 Estatísticas
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshuraSeven7&show_icons=true)
