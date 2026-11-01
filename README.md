@@ -158,5 +158,3 @@ Me chamo Ashura Seven, tenho 18 anos e sou natural do Rio Grande do Sul. ConcluÃ
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshuraSeven7&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
-</p>
